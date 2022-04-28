@@ -1,0 +1,21 @@
+﻿skill_id,experience_id,name,skill_level
+1,1,Speaking ,10
+2,1,Presenting,10
+3,3,Leadership,9
+4,4,Planning,10
+5,4,Decision Making,9
+6,7,Javascript,8
+7,7,Python,8
+8,7,Solidity,8
+9,7,React JS,9
+10,7,Rust,7
+11,7,R,7
+12,7,DevOps,9
+13,7,CSS,9
+14,8,Sales,9
+15,8,Marketing,9
+16,10,Trading,9
+17,10,Charting,10
+18,10,Risk Management,9
+19,10,Analytics,9
+20,15,Networking,10
